@@ -5,6 +5,7 @@ gem 'nokogiri'
 gem 'pry'
 gem 'rspec'
 gem 'rubygem'
+gem 'byebug'
 
 
 
