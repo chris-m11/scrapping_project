@@ -1,23 +1,23 @@
-#scrapping de fou   
+# scrapping de fou   
  
 
-##Pair-programming   
+## Pair-programming   
 
 Razafindrakoto Maminiaina Christian   
 Rasamison hajalalaina steven   
  
 
-##Dark Trader   
+## Dark Trader   
 
 Recuperé les nom des crypto avec ces cours respective   
 
 
-##Mairie Xmas   
+## Mairie Xmas   
 
 Recuperer Tout les emails de la mairie 
 
 
-##Cher Députeé   
+## Cher Députeé   
 
 Récupérer la liste complète des députés de France ainsi que leurs adresses e-mail
 
