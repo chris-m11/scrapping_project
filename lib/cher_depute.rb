@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
+require 'byebug'
 
 
 def get_infos(url)

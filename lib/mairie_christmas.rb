@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
+require 'byebug '
 
 # methode de récuperation des email
 def get_townhall_email(url)

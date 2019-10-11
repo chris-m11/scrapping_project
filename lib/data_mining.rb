@@ -1,5 +1,5 @@
 
-require "rubygems"
+require "byebug"
 require "nokogiri"
 require "open-uri"
 
